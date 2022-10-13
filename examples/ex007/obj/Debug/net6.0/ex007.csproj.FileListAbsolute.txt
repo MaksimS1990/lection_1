@@ -1,0 +1,15 @@
+C:\Users\sipatov\Desktop\Lection_1\examples\ex007\bin\Debug\net6.0\ex007.exe
+C:\Users\sipatov\Desktop\Lection_1\examples\ex007\bin\Debug\net6.0\ex007.deps.json
+C:\Users\sipatov\Desktop\Lection_1\examples\ex007\bin\Debug\net6.0\ex007.runtimeconfig.json
+C:\Users\sipatov\Desktop\Lection_1\examples\ex007\bin\Debug\net6.0\ex007.dll
+C:\Users\sipatov\Desktop\Lection_1\examples\ex007\bin\Debug\net6.0\ex007.pdb
+C:\Users\sipatov\Desktop\Lection_1\examples\ex007\obj\Debug\net6.0\ex007.csproj.AssemblyReference.cache
+C:\Users\sipatov\Desktop\Lection_1\examples\ex007\obj\Debug\net6.0\ex007.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sipatov\Desktop\Lection_1\examples\ex007\obj\Debug\net6.0\ex007.AssemblyInfoInputs.cache
+C:\Users\sipatov\Desktop\Lection_1\examples\ex007\obj\Debug\net6.0\ex007.AssemblyInfo.cs
+C:\Users\sipatov\Desktop\Lection_1\examples\ex007\obj\Debug\net6.0\ex007.csproj.CoreCompileInputs.cache
+C:\Users\sipatov\Desktop\Lection_1\examples\ex007\obj\Debug\net6.0\ex007.dll
+C:\Users\sipatov\Desktop\Lection_1\examples\ex007\obj\Debug\net6.0\refint\ex007.dll
+C:\Users\sipatov\Desktop\Lection_1\examples\ex007\obj\Debug\net6.0\ex007.pdb
+C:\Users\sipatov\Desktop\Lection_1\examples\ex007\obj\Debug\net6.0\ex007.genruntimeconfig.cache
+C:\Users\sipatov\Desktop\Lection_1\examples\ex007\obj\Debug\net6.0\ref\ex007.dll
